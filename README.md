@@ -1,5 +1,3 @@
-Here's the finalized and polished **README.md** file tailored for your Pokémon Cards project in a concise, professional, and visually appealing format:
-
 ```markdown
 # Pokémon Cards
 
